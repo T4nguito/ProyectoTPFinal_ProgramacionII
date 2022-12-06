@@ -1,0 +1,148 @@
+{
+    "peliculas":[
+        {
+            "titulo" : "12 Horas para Sobrevivir",
+            "anio" : 2014,
+            "director" : "James DeMonaco",
+            "genero" : "Terror / Suspenso",
+            "actores": "",
+            "sipnosis" : "Se trata de doce horas en las que cualquier actividad criminal, incluso el asesinato, es legal.",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyRno5s_1L-u2xuE3PgsLsFvWfKD1QQjvuDW2a_NCgbeLCAwz"
+        },
+        {
+            "titulo" : "Black Adam",
+            "anio" : 2022,
+            "director" : "Jaume Collet-Serra",
+            "genero" : " Acción / Ciencia Ficción / Fantasía",
+            "actores": "Aldis Hodge, Benjamin Patterson, Bodhi Sabongui, Chaim Jeraffi, Christopher Matthew Cook, Djimon Hounsou, Donny Carrington, Dwayne Johnson, Henry Cavill, Henry Winkler, Jalon Christian, James Cusati-Moyer, Jennifer Holland, Joseph Gatt,",
+            "sipnosis" : "Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses -y encarcelado con la misma rapidez-, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPTzXksC8HcAj6EM6WjZFJVJEzF.jpg"
+        },
+        {
+            "titulo" : "Guardianes de la Galaxia: especial felices fiestas",
+            "anio" : 2022,
+            "director" : "James Gunn",
+            "genero" : " Acción / Aventura / Comedia",
+            "actores": "Bradley Cooper, Chris Pratt, Dave Bautista, Flula Borg, Karen Gillan, Ken Bethea, Kevin Bacon, Maria Bakalova, Michael Rooker, Murry Hammond, Philip Peeples, Pom Klementieff, Rhett Miller, Sean Gunn,",
+            "sipnosis" : "Antes de que Star-Lord, Gamora, Drax, Rocket, Mantis y Groot lleguen a la pantalla grande con Guardianes de la Galaxia Vol. 3 en 2023, mira a los Guardianes participar en algunas travesuras enérgicas en un especial original completamente nuevo, creado para Disney+, durante la temporada navideña de 2022.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVrfgf4rHU0dHf5iWmtBH9MibB.jpg"
+        },
+        {
+            "titulo" : "Avengers: Endgame / Vengadores 4",
+            "anio" : 2019,
+            "director" : "Anthony Russo, Chris Castaldi, Edward Catley, Joe Russo, Mark Johnston, Simon Downes",
+            "genero" : " Acción Aventura Fantasía",
+            "actores": " Alexa Whitaker, Alexandra Rachael Rabe, Ami Fujimoto, Angela Bassett, Anthony Mackie, Ava Russo, Benedict Cumberbatch, Benedict Wong, Benjamin Weaver, Bradley Cooper, Brandon Rush, Brent McGee, Brie Larson, Callan Mulvey,",
+            "sipnosis" : "Tras los sucesos de «Vengadores: Infinity War», los superhéroes que sobrevivieron a Thanos se reunen para poner en práctica un plan definitivo que podría acabar con el villano definitivamente. No saben si funcionará, pero es su única oportunidad de intentarlo. Cuarta entrega de la saga «Vengadores»",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg"
+        },
+        {
+            "titulo" : "Focus",
+            "anio" : 2015,
+            "director" : "Anna Rane, Glenn Ficarra, John Requa",
+            "genero" : " Comedia / Crimen / Drama / Romance",
+            "actores": "Aaron Jay Rome, Adrian Martinez, Alan Sabbagh, Antonella Macchi, Armando Leduc, BD Wong, Billy Slaughter, Brennan Brown, Brett Baker, Cacilie Hughes, Chip Carriere, Clay Chamberlin, Daniella Short, Danny Ladmirault,",
+            "sipnosis" : "Will Smith interpreta a Nicky, un estafador profesional que decide ayudar a una joven novata del mundo de la criminalidad llamada Jess. Ella busca acercarse más en la relación con Nicky y tras pasar un tiempo juntos comienzan a enamorarse y empiezan una relación amorosa. Él se dedica a enseñarle tretas para que aprenda mejor a estafar y robar. Pero cuando menos se lo espera, Nicky rompe la relación de repente. El motivo es que una mujer perteneciente a su pasado ha vuelto a su vida, reaparece en Buenos Aires en un circuito de carreras en el que hay apuestas muy elevadas pero ella intentará echar los planes de Nicky por tierra y aprovechar su lado de estafador.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuJFsgq9kWPAFwRbfHIE2Ty1YXN.jpg"
+        },
+        {
+            "titulo" : "Blackhat, Amenaza en la red",
+            "anio" : 2015,
+            "director" : "Jaume Collet-Serra",
+            "genero" : " Acción / Crimen / Drama / Thriller",
+            "actores": " Abhi Sinha, Adrian Pang, Andy On, Archie Kao, Brandon Molale, Chris Hemsworth, Christian Borle, Danny Burstein, Holt McCallany, John Ortiz, Leehom Wang, Manny Montana, Ritchie Coster, Spencer Garrett,",
+            "sipnosis" : "Thriller cibernético en el que varios agentes norteamericanos y chinos, con ayuda de un convicto liberado, se unen para detener a un misterioso hacker. Todo comienza cuando los gobiernos de Estados Unidos y China se ven obligados a cooperar por el bien de la seguridad nacional de ambas potencias. El motivo: una fuerte amenaza informática está poniendo en riesgo las vidas y el futuro de la población; delitos informáticos de alto nivel para los que deberán recurrir a sus mejores agentes de campo si quieren llegar a tiempo para evitar lo peor.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg"
+        },
+        {
+            "titulo" : "Con la magia en los zapatos",
+            "anio" : 2014,
+            "director" : "Tom McCarthy",
+            "genero" : " Comedia / Drama / Fantasía",
+            "actores": "Adam Sandler, Craig Walker, Dan Stevens, Danny Mastrogiorgio, Dascha Polanco, Donnie Keshawarz, Dustin Hoffman, Elena Kampouris, Ellen Barkin, Glenn Fleshler, Greta Lee, Grizz Chapman, Jared Sandler, Joey Slotnick,",
+            "sipnosis" : "El filme, protagonizado por Adam Sandler (Niños grandes 2), cuenta la historia de un hombre que se gana la vida reparando zapatos que tiene una habilidad excepcional: es capaz de meterse metafísicamente en las vidas de aquellas personas a las que ha arreglado el calzado.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLwquKAvtJ67KPJ2QskasIpS9uv.jpg"
+        },
+        {
+            "titulo" : "Atrapados en el Cubo (Cube)",
+            "anio" : 2021,
+            "director" : "Yasuhiko Shimizu",
+            "genero" : " Ciencia Ficción / Misterio / Terror",
+            "actores": "Anne Watanabe, Hikaru Tashiro, Kotaro Yoshida, Masaki Okada, Masaki Suda, Takumi Saito, Tokio Emoto",
+            "sipnosis" : "Un cubo misterioso. Seis hombres y mujeres se ven de repente atrapados en ‘Cube’. No está claro dónde está, ni por qué están atrapados, ni si hay una salida, ni si sobrevivirán, ni siquiera qué es la habitación.",
+            "imagen" : "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLwquKAvtJ67KPJ2QskasIpS9uv.jpg"
+        },
+       {
+        "titulo" : "Interestelar",
+        "anio" : 2014,
+        "director" : "Christopher Nolan",
+        "genero" : "Ciencia ficción / Drama",
+        "sipnosis" : "Ambientada en un futuro distópico donde la humanidad está luchando por sobrevivir.",
+        "imagen" :"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMHMl9U1z1txXWCBgKbSlwH0tV3wVIsxyd6CQLhR0CkgC8Nagf"
+        },
+        {
+         "titulo" : "Revenant: el renacido", 
+         "anio" : 2015,
+         "director" : "Alejandro González Iñárritu",
+         "genero" : "Supervivencia/ Drama",
+         "sipnosis" : "Hugh Glass, un trampero y explorador de finales del siglo XIX resulta herido de muerte por el ataque de un oso.",
+         "imagen" : "https://es.web.img2.acsta.net/pictures/15/12/14/16/38/050093.jpg" 
+        },
+        {
+         "titulo" : "Avengers: Endgame",
+         "anio" : 2019,
+         "director" : "Anthony Russo,Joe Russo",
+         "genero" : "Acción/ Ciencia ficción",
+         "sipnosis" :" el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo.",   
+         "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Qe99ghA0DVCz9aHTtmshVrOs-1j2Xsqm4BmA9L_vzg&s"     
+        },
+        {
+         "titulo" : "Top Gun2 : Maverick",
+         "anio" : 2022,
+         "director" : "Joseph Kosinski",
+         "genero" : "Acción/ Drama",
+         "sipnosis" :" Maverick, quien lleva 30 años de servicio, es ahora instructor de pilotos militares. Una última misión, un sacrificio final.",
+         "imagen" : "https://pics.filmaffinity.com/top_gun_maverick-537976462-large.jpg"
+        },
+        {
+         "titulo" : "Jurassic World: Dominion",  
+         "anio" : 2022,
+         "director" : "Colin Trevorrow",
+         "genero" : "Acción/ Ciencia ficción",
+         "sipnosis" :"los dinosaurios viven y cazan junto a los humanos en todo el mundo. Este frágil equilibrio remodelará el futuro y determinará si los humanos seguirán siendo o no la especie dominante.",
+         "imagen" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL7ilZE_HVU5ZquN1E2lLxsHZuXRwD-wKkPAyLbMA1VUUaknIw"
+        },
+        {
+         "titulo" : "Spider-Man: sin camino a casa",
+         "anio" : 2021,
+         "director" : "Jon Watts",  
+         "genero" : "Acción/ Ciencia ficción",
+         "sipnosis" :" Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura.",
+         "imagen" : "https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg"
+        },
+        {
+         "titulo" : "Scream 5",
+         "anio" : 2022,
+         "director" : "Matt Bettinelli-Olpin",  
+         "genero" : "Terror / Suspenso",
+         "sipnosis" :" 25 años después de que una racha de asesinatos brutales conmocionara a la tranquila ciudad de Woodsboro, un nuevo asesino imitador se ha puesto la máscara de Ghostface para resucitar secretos del pasado.",
+         "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RUFiYuzzWwX9ZLwyxm9CZt-HxERNKu3rU33A65mrXA&s" 
+        },
+        {
+         "titulo" : "La Huérfana: el origen.",
+         "anio" : 2022,
+         "director" : "William Brent Bell",  
+         "genero" : "Cine de terror/Suspenso",
+         "sipnosis" :" Después de escapar de un centro psiquiátrico en Estonia, Esther viaja a Estados Unidos haciéndose pasar por la hija desaparecida de una familia adinerada. Sin embargo, surge un giro inesperado que la enfrenta a una madre.",
+         "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKM092h7tkAWYcP61T6689IxNoDRrURdI5NLQixFp70Q&s"   
+        },
+        {
+         "titulo" : "Brahms: el niño II",
+         "anio" : 2020,
+         "director" : "William Brent Bell",  
+         "genero" : "Cine de terror/Suspenso",
+         "sipnosis" :"Una joven familia se muda a una mansión sin conocer la aterradora historia que se esconde tras sus paredes. Allí, el hijo pequeño hace una nueva amiga: una muñeca con forma humana a la que llama Brahms.",
+         "imagen" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4c6NJVYQ_d8SnQce5l8fuEKhNKaXSjE801nOruM9FCQ5jNcB7"     
+        }
+    ]    
+}

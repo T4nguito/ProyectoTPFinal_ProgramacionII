@@ -2,37 +2,45 @@ from flask import Flask, jsonify, Response, request
 import json 
 from http import HTTPStatus
 
-app= Flask(__name__)
+#app= Flask(__name__)
 
-with open ("peliculas.json", encoding="utf-8") as archivo_json:
-    datos = json.load(archivo_json)
+# with open ("peliculas.json", encoding="utf-8") as peliculas_json:
+#     datos = json.load(peliculas_json)
 
-with open ("users.json") as archivos_json:
-   users = json.load(archivo_json)
-    
+with open ("usuarios.json") as usuarios_json:
+   usuarios = json.load(usuarios_json)
+
+print(usuarios)
+
+#Para Postman 
+'''   
 @app.route("/")
 def home():
     return "/"
 
 @app.route("/usuarios", methods = ["GET"])
 def devolver_usuario():
-    return jsonify(users)
+    return jsonify(usuarios)
 
 @app.route("/peliculas", methods = ["GET"])
 def devolver_peliculas():
     return jsonify(datos)
-
-@app.route("/usuarios/<id>", methods = ["GET"])
+'''
+#json
+#@app.route("/usuarios/<id>", methods = ["GET"])
 def devolver_usuario(id):
-    lista_encontrados=[]    
+    lista_encontrados=[]
     id_int = int(id)
-    for i in users:
-        for usuario in users[i]:
-            if usuario["id"] == id_int:
-                lista_encontrados.append(usuario)
-    print(lista_encontrados)
-    return Response("{]", status= HTTPStatus.NOT_FOUND)
 
+    for usuario in usuarios[0]["usuarios"]:
+        if usuario["id"] == id_int:
+            lista_encontrados.append(usuario)
+    print(lista_encontrados)
+
+devolver_usuario(id)
+
+    #return Response("{}", status= HTTPStatus.NOT_FOUND)
+'''
 @app.route("/agregar/pelicula", method = ["POST"])
 def agregar_pelicula():
     #Recibir datos del cliente
@@ -64,3 +72,4 @@ def actualizar_datos_pelicula():
         return Response("{}", status= HTTPStatus.BAD_REQUEST)
 
 
+'''

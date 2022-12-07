@@ -4,5 +4,5 @@ print("Menu Prueba")
 
 opcion = input("Tiene una cuenta de usuario? [SI-NO]")
 
-if opcion == "NO":
-    app.devolver_peliculas(1)
+if opcion == "SI":
+    app.devolver_usuario(3)

@@ -1,0 +1,21 @@
+
+
+Solo anda el usuario Roman los otros no se porque no los recorre.
+
+Hay que tener cuidado co el class="container" no pusimos flexbox y si la resolucion es chicas
+como me pasa en la notebook se pisan con el class backgound two y three y class peliculas-box. 
+Gabo pegale una mirada =)
+Cuando carga una peli un link de retorno a la pagina anterior.
+Cuando cargamos una pelicula hay que sacar el subir un archivo, poner campo de
+link imagen: "imagen" :  
+
+
+
+Los generos no se si ponerlos dentro de una lista en Key "generos": o hacer un json aparte.
+-------
+
+TODO CORREGIDO
+-------
+
+Lo que faltan son los comentarios!! y director y genero
+

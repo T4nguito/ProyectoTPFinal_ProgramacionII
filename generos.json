@@ -1,0 +1,43 @@
+{
+    "generos":[
+        {
+            "genero" : "Cine de terror/Suspenso"
+        },
+        {
+            "genero" : "Terror/Suspenso"
+        },
+        {
+            "genero" : "Acción/Ciencia ficción"
+        },
+        {
+            "genero" : "Acción/Drama"
+        },
+        {
+            "genero" : "Supervivencia/Drama"
+        },
+        {
+            "genero" : "Ciencia ficción/Misterio/Terror"
+        },
+        {
+            "genero" : "Ciencia ficción/Drama"
+        },
+        {
+            "genero" : "Comedia/Drama/Fantasía"
+        },
+        {
+            "genero" : "Acción/Crimen/Drama/Thriller"
+        },
+        {
+            "genero" : "Comedia/Crimen/Drama/Romance"
+        },
+        {
+            "genero" : "Acción/Aventura/Fantasía"
+        },
+        {
+            "genero" : "Acción/Aventura/Comedia"
+        },
+        {
+            "genero" : "Acción/Ciencia Ficción/Fantasía"
+        }
+    ]
+}

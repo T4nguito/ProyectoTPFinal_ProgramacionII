@@ -1,26 +1,16 @@
-[
-    {
-        "usuarios":[
-            {
-                "id": 1,
-                "nombre": "Roman",
-                "apellido": "Gonzalez",
-                "email": "romanjoagonzalez@hotmail.com"
-            },
-
-            {
-                "id": 2,
-                "nombre": "Mariano",
-                "apellido": "Ramos",
-                "email": "email@gmail.com"
-            },
-
-            {
-                "id": 3,
-                "nombre": "Gabriel",
-                "apellido": "Pelozo",
-                "email": "email@gmail.com"
-            }
-        ]
-    }
-]
+{
+    "usuarios":[
+        {
+            "nombre": "Roman",
+            "password": "123"
+        },
+        {
+            "nombre": "Mariano",
+            "password": "123"
+        },
+        {
+            "nombre": "Gabriel",
+            "password": "123"
+        }
+    ]
+}
